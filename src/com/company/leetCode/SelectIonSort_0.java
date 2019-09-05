@@ -2,7 +2,10 @@ package com.company.leetCode;
 
 import java.util.Arrays;
 
-public class SelectIonSort {
+/**
+ * 0.经典排序方法——选择排序法
+ */
+public class SelectIonSort_0 {
 
     public static void main(String[] args) {
 

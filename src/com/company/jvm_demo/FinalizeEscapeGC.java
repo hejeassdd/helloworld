@@ -1,5 +1,8 @@
 package com.company.jvm_demo;
 
+/**
+ * JVM测试，重写finalize,只能复活一次
+ */
 public class FinalizeEscapeGC {
 
     public static FinalizeEscapeGC SAVE_HOOK = null;

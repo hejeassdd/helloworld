@@ -2,6 +2,7 @@ package com.company.design_pattern;
 
 public class SingleDemo {
     public static void main(String[] args) {
+//        单例设计模式
 //        Son son1 = Son.getInstance();
 //        Son son2 = Son.getInstance();
 //

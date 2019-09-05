@@ -2,7 +2,10 @@ package com.company.leetCode;
 
 import java.util.Arrays;
 
-public class BubbleSort {
+/**
+ * 0.经典排序方法——冒泡排序法
+ */
+public class BubbleSort_0 {
 
     public static void main(String[] args) {
 
